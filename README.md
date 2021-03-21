@@ -1,0 +1,4 @@
+- Olá
+- Me chamo Henrique Siqueira
+- Sou desenvolvedor web fullstack
+- Trabalho com: Vue.js, Laravel, Lumen, MySQL entre outras tecnologias

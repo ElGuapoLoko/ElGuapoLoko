@@ -25,8 +25,8 @@ class About extends Me
             Angular::class,
             Lumen::class,
             MySql::class,
-            HTML::class,
-            CSS::class,
+            Html::class,
+            Css::class,
             Docker::class
         ];
     }

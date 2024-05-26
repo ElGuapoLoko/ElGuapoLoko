@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Henrique Siqueira<br>I work as a Fullstack web developer.<br>I like challenges, it keeps me motivated to always learn more about different areas.<br>Here you will find some projects I made to participate in a hackathon or simply because I felt like it.
+Hi, I'm Henrique Siqueira<br>I work as a Sr. Software Engineer.<br>I like challenges, it keeps me motivated to always learn more about different areas.<br>Here you will find some projects I made to participate in a hackathon or simply because I felt like it.
 
 
 ## 🌐 Socials:
